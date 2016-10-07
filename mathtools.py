@@ -21,14 +21,6 @@ def factorial(n):
         return n * factorial(n-1)
 
 		
-in the desired branch using git status.
-
-
-
-
-
-
-
 
 
 def fib(n):
